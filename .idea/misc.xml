@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_forgot_password.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_guest_register.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_login.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_maintenance.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_my_flat.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_notice_board.xml" value="0.15185856754306437" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_register.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_service_center.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_society_expense.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/activity_splash_logo.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addcomplain.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addevent.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addexpenses.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addguestrequest.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addmaintaince.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addmembersmyflat.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addnotice.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addrules.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/addvehicle.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/layout_forgot_password.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_complainactivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_eventactivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_guestregisteractivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_myflatactivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_noticeboardactivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_parkingactivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_rulesactivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/list_layout_societyexpenseactivity.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/maintaince.xml" value="0.18426678067550234" />
+        <entry key="..\:/Society Managment Application/Society Managment Application/app/src/main/res/layout/progress_dialog.xml" value="0.18426678067550234" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

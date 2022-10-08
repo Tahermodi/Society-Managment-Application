@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Society Management</string>
+
+
+    <string name="rameshbhai_rathod">RAMESHBHAI RATHOD</string>
+    <string name="_9756347826">9756347826</string>
+    <string name="plumber">PLUMBER</string>
+    <string name="electrician">ELECTRICIAN</string>
+    <string name="_9976835211">9976835211</string>
+    <string name="kamleshbhai_shah">KAMLESHBHAI SHAH</string>
+    <string name="carpenter">CARPENTER</string>
+    <string name="sureshbhai_patel">SURESHBHAI PATEL</string>
+    <string name="_8457214360">8457214360</string>
+    <string name="call">CALL</string>
+</resources>

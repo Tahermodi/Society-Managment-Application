@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sgp.project.society">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ForgotPasswordActivity"></activity>
+        <activity android:name=".MaintenanceActivity" />
+        <activity android:name=".NoticeBoardActivity" />
+        <activity android:name=".MyFlatActivity" />
+        <activity android:name=".EventActivity" />
+        <activity android:name=".ServiceCenterActivity" />
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".FlatDirectoryActivity" />
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".ParkingActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".RulesActivity" />
+        <activity android:name=".addmaintaince" />
+        <activity android:name=".SplashLogo">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
